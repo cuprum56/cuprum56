@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" alt="banner"/>
+</p>
 
-<!--
-**cuprum56/cuprum56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer, студент ФИИТ МАИ 2025, Веб приложения, UI, мобильные приложения.
 
-Here are some ideas to get you started:
+## My stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+* React
+* Next.js
+* JavaScript
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+
+### Инструменты
+
+* Git
+* Docker
+* VS Code
+* Windows/Linux
+
+## Контакты
+
+Email: [andrejorlovskij48@gmail.com](mailto:andrejorlovskij48@gmail.com)
+Орловский Андрей
